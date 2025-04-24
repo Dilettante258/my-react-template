@@ -24,7 +24,7 @@
   "packageManager": "bun@1.2.10",
   "devDependencies": {
     "@types/bun": "^1.2.10",
-    "@types/pg": "8.11.13",
+    "@types/pg": "8.11.14",
     "drizzle-kit": "^0.31.0",
     "drizzle-seed": "^0.3.1"
   }
